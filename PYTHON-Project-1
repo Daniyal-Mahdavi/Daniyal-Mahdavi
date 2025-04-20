@@ -1,0 +1,18 @@
+import random
+random = random.randint (1 , 100)
+prand1 = 1
+prand2 = 100
+while True:
+    print("random :", random)
+    word = input("u or l or r? :")
+    if word == 'u':
+        prand2 = random
+        import random
+        random = random.randint (prand1 , prand2 - 1)
+    elif word =='l':
+        prand1 = random
+        import random
+        random = random.randint (prand1 + 1 , prand2)
+    elif word == 'r':
+        print("Your number is ", random)
+        break
