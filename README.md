@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Daniyal-Mahdavi
-- 👀 I’m interested in * learn new thing about * ** Coding ** 🌟
-- 🌱 I’m currently learning ** HTML5,CSS,PYTHON **
-- 📫 How to reach me *** daniyalmahdavi4@gmail.com ***
+- 👀 I’m interested in learn new thing about Coding 🌟
+- 🌱 I’m currently learning HTML5,CSS,PYTHON 
+- 📫 How to reach me daniyalmahdavi4@gmail.com 
 - ⚡ Fun fact: I'm a Student 😄
 
 <!---
